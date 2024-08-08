@@ -2,6 +2,6 @@
 
 Meu Nome é Gustavo
 
-- Estou studyng no Alura
+- Estou estudando no Alura
 
-
+![](https://media.tenor.com/QscrjsdAwMAAAAAM/batcat-dancing-cat.gif)
